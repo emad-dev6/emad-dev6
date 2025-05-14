@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, I'm Emad! 👾
 
-<!--
-**emad-dev6/emad-dev6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19-year-old computer engineering student from Ardabil, Iran.  
+Currently learning web development and leveling up my coding skills day by day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+- 🎮 Gamer for over 6 years
+- 💻 Love web & game development
+- 📚 Student at Azad University (Computer Engineering)
+- 🌱 Learning: HTML, CSS, JavaScript & basic backend
+- 🔥 Goal: Become a real-world developer
+- 🧠 Language: Persian (native), English (intermediate)
+
+---
+
+### What I'm Working On:
+- Personal clothing store website (with some help from ChatGPT)
+- Practicing small front-end projects
+- Preparing for real-world development
+
+> Keep an eye on my GitHub — more coming soon!
+
+---
