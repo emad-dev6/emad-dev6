@@ -11,6 +11,12 @@ Currently learning web development and game development, and leveling up my codi
 - 🛍️ Working on a clothing store website  
 - 🎓 Student at Azad University (Computer Engineering)  
 
+---
+
+### My Projects:
+- [Clothing Store Website](#) — Simple front-end store page for showcasing products (HTML & CSS)  
+<!-- بعداً که پروژه رو آپلود کردی، به جای # لینک ریپوی واقعی‌تو می‌ذاریم -->
+
 > This is just the beginning — stay tuned for my upcoming projects!
 
 ---
